@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-05-15 11:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+
+#: kverbs.cpp:147
+msgid "Conjugation:"
+msgstr ""
+
+#: kverbs.cpp:159
+msgid "Tense:"
+msgstr ""
+
+#: kverbs.cpp:169
+msgid "Voice:"
+msgstr ""
+
+#: kverbs.cpp:177
+msgid "&Conjugate"
+msgstr ""
+
+#: main.cpp:9
+msgid "A KDE Application"
+msgstr ""
+
+#: main.cpp:15
+msgid "KVerbs"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:235
+msgid "1st Conjugation"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:236
+msgid "2nd Conjugation"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:237
+msgid "3rd Conjugation non i-stem"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:238
+msgid "3rd Conjugation i-stem"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:239
+msgid "4th Conjugation"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:246
+msgid "Infinitive:"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:247
+msgid "Perfect:"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:248
+msgid "PPP:"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:255
+msgid "Present"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:256
+msgid "Present Subjunctive"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:257
+msgid "Imperfect"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:258
+msgid "Imperfect Subjunctive"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:259
+msgid "Future"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:260
+msgid "Perfect"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:261
+msgid "Perfect Subjunctive"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:262
+msgid "Pluperfect"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:263
+msgid "Pluperfect Subjunctive"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:264
+msgid "Future Perfect"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:271
+msgid "Active"
+msgstr ""
+
+#: modules/latin/kverbs_latin.cpp:272
+msgid "Passive"
+msgstr ""

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KVerbs
+Exec=kverbs %i %m -caption "%c"
+Icon=kverbs
+Type=Application
+DocPath=kverbs/kverbs.html
+GenericName=A KDE Application
+Terminal=0
